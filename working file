@@ -182,14 +182,9 @@
     import { getDatabase, ref, push, onChildAdded, query, orderByChild, get, remove } from "https://www.gstatic.com/firebasejs/12.1.0/firebase-database.js";
 
     const firebaseConfig = {
-      apiKey: "AIzaSyBYJW83DPFsEBNM1wV_3SJ0sT8aerGPx7A",
-      authDomain: "chatroomfunyay.firebaseapp.com",
-      databaseURL: "https://chatroomfunyay-default-rtdb.firebaseio.com",
-      projectId: "chatroomfunyay",
-      storageBucket: "chatroomfunyay.firebasestorage.app",
-      messagingSenderId: "741967066444",
-      appId: "1:741967066444:web:b6e386b842d3c29febcbe9",
-      measurementId: "G-4CXD16WBVL"
+
+no
+
     };
 
     const app = initializeApp(firebaseConfig);
